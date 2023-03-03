@@ -69,3 +69,4 @@ A Non-Linear Data Structure is one in which its elements are not connected in a 
 # About Repo
 This repository will contain Data Structure Algorithms with an easy approach to make it understandable for the viewers.
 Some of the algos may contain the use of STL and some of them will not contain STL so as to make it more easily understandable.
+The main topics will be based on Sorting, Trees, Greedy, DP and Graphs(near future).
